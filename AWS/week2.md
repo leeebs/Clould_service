@@ -1,3 +1,4 @@
+# AWS 2주차 :cloud:
 # 리눅스 명령어 및 웹 페이지 수정
 
        
@@ -17,9 +18,21 @@ rm : 파일이나 디렉토리 삭제
      
 ![3](https://user-images.githubusercontent.com/66204538/116263203-257f8c80-a7b4-11eb-874b-7654520b75a8.JPG)
        
-![12](https://user-images.githubusercontent.com/66204538/116264451-43012600-a7b5-11eb-8dc3-93f634f28190.JPG)
+![4](https://user-images.githubusercontent.com/66204538/116267145-1c43ef00-a7b7-11eb-83b7-ae5ec47e1e50.JPG)
+          
+![5](https://user-images.githubusercontent.com/66204538/116267199-27971a80-a7b7-11eb-88e8-7ed4599808ac.JPG)
+        
+![나노에디터](https://user-images.githubusercontent.com/66204538/116267315-44335280-a7b7-11eb-955e-8f7c32bf2b89.jpg)
       
 ![14](https://user-images.githubusercontent.com/66204538/116263549-6b3c5500-a7b4-11eb-83d1-6ce315e1e41f.JPG)
+         
+![19](https://user-images.githubusercontent.com/66204538/116266871-da1aad80-a7b6-11eb-8491-8e445aab1415.JPG)
+         
+![20](https://user-images.githubusercontent.com/66204538/116266923-e6066f80-a7b6-11eb-872a-f56a55b4d487.JPG)
+         
+         
+         
+         
     
 ## 2. 웹 페이지 수정
        
