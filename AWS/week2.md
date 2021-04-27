@@ -17,9 +17,7 @@ rm : 파일이나 디렉토리 삭제
      
 ![3](https://user-images.githubusercontent.com/66204538/116263203-257f8c80-a7b4-11eb-874b-7654520b75a8.JPG)
        
-![12](https://user-images.githubusercontent.com/66204538/116263356-4516b500-a7b4-11eb-90a4-2ace1f0252d0.JPG)
-        
-![13](https://user-images.githubusercontent.com/66204538/116263420-519b0d80-a7b4-11eb-8d50-2cedc6524bd8.JPG)
+![12](https://user-images.githubusercontent.com/66204538/116264451-43012600-a7b5-11eb-8dc3-93f634f28190.JPG)
       
 ![14](https://user-images.githubusercontent.com/66204538/116263549-6b3c5500-a7b4-11eb-83d1-6ce315e1e41f.JPG)
     
@@ -32,7 +30,7 @@ apt-get install apache2를 통해 파일을 설치하고, apt-get update를 통�
         
 apache가 설치되었다면, 생성된 인스턴스의 퍼블릭 IPv4 주소를 주소창에 입력해보자. 초기 apache 페이지가 나온다.     
        
-![아파치초기](https://user-images.githubusercontent.com/66204538/116262602-a722ea80-a7b3-11eb-9952-ac8a0b9adf1b.jpg)
+![아파치초기](https://user-images.githubusercontent.com/66204538/116264188-0e8d6a00-a7b5-11eb-9314-a38cb68d2a91.jpg)
        
 해당 초기 화면은 /var/www/html에 있는 index.html 파일이다.      
 cd를 통해 디렉토리를 변경하고 index.html이 있는지 확인한다.     
