@@ -3,7 +3,9 @@
 ## 웹 서비스 구현하기    
 - DB 생성, User 생성, Table 생성, 데이터 입력       
 - PHP 와 Mysql 연동 라이브러리 설치       
-- php 파일 생성하여 web page 로 데이터 입력 , Data 생성 확인       
+- php 파일 생성하여 web page 로 데이터 입력 , Data 생성 확인         
+- 현재 구조       
+![KakaoTalk_20210602_154218383](https://user-images.githubusercontent.com/66204538/121215493-0730a480-c8bb-11eb-8115-7cfc76b5a828.png)           
 ----------------------------------------------     
         
 - clouddb 생성      
