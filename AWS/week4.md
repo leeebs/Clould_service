@@ -2,7 +2,7 @@
 
 ## EC2에 Mysql 설치하기    
 
-EC2에 Mysql을 설치하고 Toad에 사용자를 연동시켜 데이터베이스를 관리하는 환경을 구축하는 것이 목표이다.
+EC2에 Mysql을 설치하고 Toad에 사용자를 연동시켜 데이터베이스를 관리하는 환경을 구축하는 것이 목표이다.   
 
 ![2 apt update 후 mysql server install](https://user-images.githubusercontent.com/66204538/118671026-167b7f80-b832-11eb-9cf6-e2f8b1700f5b.jpg)       
 일단 apt update 후에 mysql-server를 install 한다.       
